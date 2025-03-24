@@ -17,3 +17,8 @@
  234. Palindrome Linked List
  143. Reorder List
  73. Set Matrix Zeroes
+
+# Week4
+ 232. Implement Queue using Stacks
+ 394. Decode String
+ 2327. Number of People Aware of a Secret
