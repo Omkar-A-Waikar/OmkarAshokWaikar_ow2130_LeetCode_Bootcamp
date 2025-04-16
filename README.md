@@ -24,7 +24,7 @@
  2327. Number of People Aware of a Secret
 
 # Week 5 - Presentation 
-Github code - https://github.com/ruchi-115/Null-pointer
+Github code - https://github.com/ruchi-115/Null-pointer   
 PPT - https://docs.google.com/presentation/d/1kazOujR6n-VuxcSsDghd8XgGrlKl0PZ7E7od0oE8Rdw/edit#slide=id.g34729b4f78f_2_97
 
 # Week 6
