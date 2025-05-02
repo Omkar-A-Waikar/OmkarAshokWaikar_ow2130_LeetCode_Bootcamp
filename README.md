@@ -42,3 +42,14 @@ PPT - https://docs.google.com/presentation/d/1kazOujR6n-VuxcSsDghd8XgGrlKl0PZ7E7
 199. Binary Tree Right Side View <br>
 994. Rotting Oranges <br>
 210. Course Schedule II
+
+## Week 8
+<br>
+416. Partition Equal Subset Sum <br>
+322. Coin Change <br>
+53. Maximum Subarray
+
+## Week 9 - Final Project Presentation
+<br>
+Github code - https://github.com/Omkar-A-Waikar/NYC-Transit-Hub <br>
+PPT - https://docs.google.com/presentation/d/1lzuIpw96TEI7XzfThU8V0p664Kk7ml1Mxg449dwbBoc/edit#slide=id.p4
